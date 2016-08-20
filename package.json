@@ -1,0 +1,23 @@
+{
+  "name": "veronica",
+  "version": "1.0.0",
+  "description": "get Iron Man related data",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajikaimal/veronica.git"
+  },
+  "keywords": [
+    "marvel",
+    "iron-man"
+  ],
+  "author": "rajikaimal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rajikaimal/veronica/issues"
+  },
+  "homepage": "https://github.com/rajikaimal/veronica#readme"
+}
