@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/rajikaimal/veronica/issues"
   },
-  "homepage": "https://github.com/rajikaimal/veronica#readme"
+  "homepage": "https://github.com/rajikaimal/veronica#readme",
+  "dependencies": {
+    "http-fetcher": "^0.9.0"
+  }
 }
