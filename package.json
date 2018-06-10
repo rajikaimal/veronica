@@ -21,8 +21,8 @@
   },
   "homepage": "https://github.com/rajikaimal/veronica#readme",
   "dependencies": {
-    "chai": "^3.5.0",
+    "chai": "^4.1.2",
     "http-fetcher": "^0.9.0",
-    "mocha": "^3.0.2"
+    "mocha": "^5.2.0"
   }
 }
